@@ -1,3 +1,6 @@
-joblib
+streamlit
+numpy
 pandas
-gmail
+scikit-learn
+joblib
+nltk
