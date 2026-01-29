@@ -1,4 +1,6 @@
+streamlit
 joblib
+numpy
 pandas
-gmail
-imblearn
+scikit-learn
+
